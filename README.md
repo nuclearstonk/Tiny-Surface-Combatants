@@ -1,12 +1,11 @@
 ![image](https://github.com/nuclearstonk/Tiny-Surface-Combatants/assets/158362012/ecd0973c-7f2f-4d3f-a16d-3224f03bd886)
 
 ```
-Tiny Surface Combatants V0.6 Beta
+Tiny Surface Combatants V0.61 Beta
 
-features in V0.6
-completely reworked armor/damage values and did some sanity checks (TWS is next on the list for this standardization) system writeup down the page
-BMP-1 remodel and BMP-1P along with 9M14 and 9M113
-lazy M1A1HA and M829A1
+features in V0.61
+new SA-2 models
+internal rearrangement with files
 
 upcoming (in no particular order and not necessarily next update):
 ships (whenever ship support is added for the game)
