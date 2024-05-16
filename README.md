@@ -1,11 +1,13 @@
 ![image](https://github.com/nuclearstonk/Tiny-Surface-Combatants/assets/158362012/ecd0973c-7f2f-4d3f-a16d-3224f03bd886)
 
 ```
-Tiny Surface Combatants V0.61 Beta
+Tiny Surface Combatants V0.62 Beta
 
-features in V0.61
-new SA-2 models
-internal rearrangement with files
+features in V0.62
+SA-3 V600 V601
+fixed 3M9's speed (is now 60% faster and its realistic speed)
+fixed bug where SA-2 sites would ignore radar range and fire at targets they shouldnt be able to
+various tweaks to SAM motors
 
 upcoming (in no particular order and not necessarily next update):
 ships (whenever ship support is added for the game)
