@@ -1,13 +1,12 @@
 ![image](https://github.com/nuclearstonk/Tiny-Surface-Combatants/assets/158362012/ecd0973c-7f2f-4d3f-a16d-3224f03bd886)
 
 ```
-Tiny Surface Combatants V0.62 Beta
+Tiny Surface Combatants V0.63 Beta
 
-features in V0.62
-SA-3 V600 V601
-fixed 3M9's speed (is now 60% faster and its realistic speed)
-fixed bug where SA-2 sites would ignore radar range and fire at targets they shouldnt be able to
-various tweaks to SAM motors
+features in V0.63
+SA-14 Gremlin 9M36 Strela-3 2K34 "Arrow" on BTR-70
+database entries for HAWK and I-HAWK
+probably something else i forgot
 
 upcoming (in no particular order and not necessarily next update):
 ships (whenever ship support is added for the game)
