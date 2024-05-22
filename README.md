@@ -1,20 +1,23 @@
 ![image](https://github.com/nuclearstonk/Tiny-Surface-Combatants/assets/158362012/ecd0973c-7f2f-4d3f-a16d-3224f03bd886)
 
 ```
-Tiny Surface Combatants V0.63 Beta
+Tiny Surface Combatants V0.64 Beta
 
-features in V0.63
-SA-14 Gremlin 9M36 Strela-3 2K34 "Arrow" on BTR-70
-database entries for HAWK and I-HAWK
+features in V0.64
+3M38 and new 3M9 variants, alongside 2K12 launchers for them (the SA-11 TELAR will be coming in a future update)
+BMP-2
 probably something else i forgot
 
 upcoming (in no particular order and not necessarily next update):
-ships (whenever ship support is added for the game)
-TOR-M1
-S-300P/PT/PM/PMU/PMU2/V/VM/F/FM/idk man whatever S-300 variants you can think of theres about a bajillion of them
+SA-4
+Nike Hercules/Ajax
+gun artillery
+
+pending game feature implementation (currently impossible with current mechanics):
+ships
 MIM-104A PATRIOT
-M1A2/SEP
-T-72B/90A/90M
+more soviet SAMs (S-300, Osa, TOR, whatnot)
+rocket artillery
 
 damage/armor system standardization:
 armor values range from 0-5
@@ -28,7 +31,7 @@ armor values range from 0-5
 damage values arent standard but what is standard is the inclusion of 'guaranteed damage,' where a non-penetrating hit will still cause some amount of damage to a target, so even heavy armor wont be immune to overwhelming fire
 this guaranteed damage is done through minor splash damage with very high splash penetration
 
-place in /Mods/ in your TCA directory, set up spawns in the Island.json yourself cuz im not messing with the arenas
+place in /Mods/ in your TCA directory
 includes many vehicles from varying nations and eras, all with the most accurate specifications i could find, hp and armor pools subject to personal balancing
 will include more units in the future with more functionality and documentation
 
