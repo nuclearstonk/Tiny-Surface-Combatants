@@ -1,16 +1,21 @@
 ![image](https://github.com/nuclearstonk/Tiny-Surface-Combatants/assets/158362012/ecd0973c-7f2f-4d3f-a16d-3224f03bd886)
 
 ```
-Tiny Surface Combatants V0.64 Beta
+Tiny Surface Combatants V0.7 Beta
 
-features in V0.64
-3M38 and new 3M9 variants, alongside 2K12 launchers for them (the SA-11 TELAR will be coming in a future update)
-BMP-2
-probably something else i forgot
+features in V0.7
+SA-5
+T-64A
+T-64B remodel
+T-72AV
+Nike Hercules MIM-14
 
 upcoming (in no particular order and not necessarily next update):
 SA-4
-Nike Hercules/Ajax
+MIM-46 Mauler
+M48 Patton
+M247
+atomic munitions
 gun artillery
 
 pending game feature implementation (currently impossible with current mechanics):
