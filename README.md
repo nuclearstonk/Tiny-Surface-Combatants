@@ -1,32 +1,26 @@
 ![image](https://github.com/nuclearstonk/Tiny-Surface-Combatants/assets/158362012/ecd0973c-7f2f-4d3f-a16d-3224f03bd886)
 
 ```
-Tiny Surface Combatants V0.8 Beta
+Tiny Surface Combatants V0.82 Beta
 
-features in V0.8
-SA-10 Grumble (buggy mess but it Technically Works)
-MIM-46 Mauler
-M1A1HA model
-overhaul of soviet tanks (T-80B has the T-64B model as a placeholder)
-USMC ground based terrier launcher
-every significant tartar and terrier variant lol
-balance pass for ATGMs
-BMPs no longer fire missiles at aircraft
-nuclear S-200 variants
-nuclear S-75 variant
+features in V0.82
+M247 sergeant york
+MIM-104 PATRIOT
+new HAWK variants
+fixed M1A1HA
+a whole lot of little tweaks here and there (namely reduction in range for VADS)
+medium-heavy gun based AAA are now more effective
+nukes with redone range/damage calculations (less blast radius with greater blast damage)
 
 upcoming (in no particular order and not necessarily next update):
-SA-4
 M48 Patton
-M247
-atomic munitions
-gun artillery
+a very special surprise :3
 
 pending game feature implementation (currently impossible with current mechanics):
 ships
-MIM-104A PATRIOT
-more soviet SAMs (Osa, TOR, whatnot)
+more soviet SAMs (TOR, Krug, Gladiator/Giant)
 rocket artillery
+gun artillery
 
 dependencies: the nuclear warhead FX requires V0.52 or later of Tiny Weapon Shop, so if you care about the nukes you need to get that
 
