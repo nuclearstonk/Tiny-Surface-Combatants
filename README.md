@@ -2,21 +2,29 @@
 ![image](https://github.com/user-attachments/assets/f271c729-9df5-4cee-a164-bca04d842dfa)
 ![image](https://github.com/user-attachments/assets/11eaaa52-6ff3-44a5-8dd8-e7f7a369682a)
 ```
-Tiny Surface Combatants V0.9 Beta
+Tiny Surface Combatants V1.0 Release
 
-features in V0.9
-M1A2
-M1A1HC
-Type 90 Kyu-Maru
-T-80U
-T-55A/AM1
-T-80B model and overhaul
-T-64B model enhancement
-completely new armor/pen/damage system
+features in V1.0
+quick strike mission factions
+T62
+T72 ural
+T80UK
+T72B variants
+T-34-85
+BMD-3
+9P122 BDRM-2 ATGM carrier
+new weapons and missiles
+fancy text for database entries
+MIM-72 transferred to this mode
+balancing for IR seekers
 
 upcoming (in no particular order and not necessarily next update):
 M48 Patton
 more soviet SAMs (TOR, Krug, Gladiator/Giant)
+BMD series
+AAPV7
+LAV series
+MT-LB/BDRM ATGM carrier
 
 pending game feature implementation (currently impossible/poorly implemented with current mechanics):
 ships
@@ -38,11 +46,6 @@ includes many vehicles from varying nations and eras, all with the most accurate
 will include more units in the future with more functionality and documentation
 
 credits to @nuclearstonk on discord
-
-have fun! ^w^
-includes many vehicles from varying nations and eras, all with the most accurate specifications i could find, hp and armor pools subject to personal balancing
-will include more units in the future with more functionality and documentation
-
-credits to @nuclearstonk on discord
+and @theunsmartone for the BMD-3 model
 
 have fun! ^w^
