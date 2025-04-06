@@ -1,6 +1,6 @@
 ![image](https://github.com/nuclearstonk/Tiny-Surface-Combatants/assets/158362012/ecd0973c-7f2f-4d3f-a16d-3224f03bd886)
 ![image](https://github.com/user-attachments/assets/f271c729-9df5-4cee-a164-bca04d842dfa)
-![image](https://github.com/user-attachments/assets/11eaaa52-6ff3-44a5-8dd8-e7f7a369682a)
+![image](https://github.com/user-attachments/assets/22bae791-483a-4f3a-8768-ef29a4571e01)
 ```
 Tiny Surface Combatants V1.0 Release
 
